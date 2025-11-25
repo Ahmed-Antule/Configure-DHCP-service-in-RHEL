@@ -10,7 +10,7 @@
 #### i.Install DHCP service
 <img width="686" height="482" alt="3" src="https://github.com/user-attachments/assets/94700c4c-2942-4220-a35e-f40066c77262" />
 
-ii.Update DHCP configuration file
+#### ii.Update DHCP configuration file
 <img width="668" height="471" alt="4" src="https://github.com/user-attachments/assets/85876031-1253-4757-b6dd-d6cb918bc5e1" />
 <img width="668" height="460" alt="5" src="https://github.com/user-attachments/assets/c225e0bb-02ac-4d49-b686-5a499b43bf9a" />
 <img width="678" height="471" alt="6" src="https://github.com/user-attachments/assets/ac2f2ed0-74dd-486f-b4ac-f3b8ee1e6d22" />

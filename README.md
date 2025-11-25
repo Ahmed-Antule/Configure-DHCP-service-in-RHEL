@@ -20,7 +20,7 @@
 <img width="676" height="471" alt="7" src="https://github.com/user-attachments/assets/73fbbf15-c8ab-40a7-8419-54e43a369181" />
 
 #### Step 4
-Add DHCP service into firewall
+#### i.Add DHCP service into firewall
 <img width="675" height="377" alt="8" src="https://github.com/user-attachments/assets/ca7abb10-56d4-4255-a30d-13850f37bd2c" />
 
 ### Step 5

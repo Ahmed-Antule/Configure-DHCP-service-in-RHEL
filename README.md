@@ -1,5 +1,7 @@
 # Configure-DHCP-service-in-RHEL
 
+### DHCP Server (Dynamic Host Configuration Protocol Server)
+
 ### Step 1
 
 #### i.Create Repo file

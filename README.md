@@ -34,6 +34,7 @@
 #### iv.Check the IP address
 <img width="671" height="467" alt="11" src="https://github.com/user-attachments/assets/6538c16d-c3fc-42f4-b7ce-4b62e82c03da" />
 
+#### Here you can see the IP address is automatically assigned to the client machine 
 
 
 

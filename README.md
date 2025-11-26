@@ -16,7 +16,7 @@
 <img width="678" height="471" alt="6" src="https://github.com/user-attachments/assets/ac2f2ed0-74dd-486f-b4ac-f3b8ee1e6d22" />
 
 ### Step 3
-#### Start and Enable DHCP service
+#### i.Start and Enable DHCP service
 <img width="676" height="471" alt="7" src="https://github.com/user-attachments/assets/73fbbf15-c8ab-40a7-8419-54e43a369181" />
 
 #### Step 4

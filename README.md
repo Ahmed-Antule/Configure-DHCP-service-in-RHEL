@@ -2,6 +2,24 @@
 
 ### DHCP Server (Dynamic Host Configuration Protocol Server)
 
+A DHCP server is a network service that automatically provides IP addresses and other network configuration details (like subnet mask, gateway, and DNS servers) to devices on a network. This eliminates the need for manually assigning IP addresses to each device..
+
+### Key Benefits:
+1.Automatic IP Assignment – Reduces manual work and prevents IP conflicts.
+
+2.Lease Time Management – IP addresses are assigned temporarily (lease) and can be renewed.
+
+3.Centralized Configuration – All network settings can be managed from one server.
+
+### How It Works
+1.Device Request (DHCP Discover): When a device (like a computer or phone) connects to the network, it sends a broadcast message asking for an IP address.
+
+2.DHCP Offer: The DHCP server responds with an available IP address and configuration details.
+
+3.DHCP Request: The device accepts the offer and requests to use that IP.
+
+4.DHCP Acknowledgement: The DHCP server confirms and leases the IP to the device for a certain period.
+
 ### Step 1
 
 #### i.Create Repo file
